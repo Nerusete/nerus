@@ -4,5 +4,5 @@ version: "1.0.0"
 description: Aplicación de prueba
 developer: Jose Antonio
 website: https://github.com
-port: 8080
+port: 9091
 icon: icon.png
