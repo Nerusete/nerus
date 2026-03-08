@@ -1,0 +1,10 @@
+version: "3.7"
+
+services:
+  filebrowser:
+    image: filebrowser/filebrowser
+    restart: unless-stopped
+    volumes:
+      - ./data:/srv
+    ports:
+      - "9092:80"
