@@ -1,4 +1,8 @@
+id: joseantonio-appstore
 name: Jose Antonio App Store
-description: Tienda de aplicaciones para mi servidor Umbrel
+tagline: Tienda personal de apps para Umbrel
+description: Aplicaciones personales para mi servidor Umbrel
+developer: Jose Antonio
+website: https://github.com
 apps:
   - apps/*
