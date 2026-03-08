@@ -1,4 +1,4 @@
-# Jose Antonio Umbrel App Store
+# Jose Antonio Umbrel
 
 Tienda personalizada de aplicaciones para Umbrel.
 
